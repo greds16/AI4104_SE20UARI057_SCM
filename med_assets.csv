@@ -1,0 +1,20 @@
+IP,MAC,Port,Make,Model,Dev Name,Dev Type,Serial No,Department
+10.33.131.205,FA:4B:88:30:A4:20,445,Philips Healthcare,Optima MR450,MRI Machine,Medical Equipment,28689792,Radiology
+10.200.81.2,C6:B8:86:94:45:5E,3349,Siemens,Optima MR450,MRI Machine,Medical Equipment,20151811,Radiology
+10.14.215.126,9A:CD:BF:7F:39:4B,445,Siemens,Magnetom Skyra,MRI Machine,Medical Equipment,97823497,Radiology
+10.180.15.171,6F:5D:5E:68:4A:EC,445,GE Healthcare,Aquilion Prime,X-Ray Machine,Medical Equipment,41193524,Cardiology
+10.147.45.107,77:10:8D:D9:5F:EA,3349,Fujifilm,Ingenuity CT750,X-Ray Machine,Medical Equipment,79221777,Cardiology
+10.69.136.254,96:88:90:44:41:32,3349,GE Healthcare,Aquilion Prime,X-Ray Machine,Medical Equipment,72717126,Cardiology
+10.206.119.209,1D:0A:7B:E3:EB:9D,3349,Siemens,Ingenuity CT750,X-Ray Machine,Medical Equipment,13452497,Cardiology
+10.110.16.39,59:35:C2:41:71:86,445,Canon,Aquilion One,X-Ray Machine,Medical Equipment,74307002,Cardiology
+10.169.111.106,99:69:30:C3:0F:04,3349,Fujifilm,Sonosite Edge,Ultrasound Machine,Medical Equipment,99236112,Ultrasound
+10.225.123.14,C6:E8:C2:53:0D:40,3349,Fujifilm,Sonosite Edge,Ultrasound Machine,Medical Equipment,20901103,Ultrasound
+10.83.14.136,D9:CA:C7:21:69:77,445,Philips Healthcare,GE Logiq E10,Ultrasound Machine,Medical Equipment,94646410,Ultrasound
+10.62.99.168,7C:D1:89:06:82:40,445,Siemens,Vivid E95,Ultrasound Machine,Medical Equipment,33282776,Ultrasound
+10.153.192.150,48:C3:6F:59:3D:AC,3349,Canon,Philips EPIQ7,Ultrasound Machine,Medical Equipment,95668687,Ultrasound
+10.50.0.205,80:57:7D:4C:61:A4,3349,Philips Healthcare,Vivid E95,Ultrasound Machine,Medical Equipment,50722266,Ultrasound
+10.94.108.101,0F:18:C4:9C:11:EE,3349,Siemens,Philips EPIQ7,Ultrasound Machine,Medical Equipment,96134231,Ultrasound
+10.138.162.17,64:F3:E5:6E:43:39,445,Philips Healthcare,Aquilion Prime,CT Scan,Medical Equipment,69418060,Radiology
+10.199.237.149,86:5B:14:B9:2D:3B,445,Siemens,Ingenuity CT750,CT Scan,Medical Equipment,33883962,Radiology
+10.186.166.161,85:94:AC:FA:06:BF,445,GE Healthcare,Somatom Force,CT Scan,Medical Equipment,50084224,Radiology
+10.232.174.203,AE:E6:2B:F1:9F:41,3349,Canon,Aquilion One,CT Scan,Medical Equipment,42642238,Radiology
