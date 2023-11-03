@@ -6,7 +6,7 @@ List of devices categories picked
 Medical, IT and IOT devices. 
 each of these are put in seperate folders and they contain a very unqiue and detailed list of characters. 
 
-3D assets folder contains the images in sub folder for each of the device categories. 
+3D assets folder contains the images in sub folder for each of the device categories. The used 3D pictures are large in size henceforth saved all of them in .usdz format, I have also added a operation room scene.
 
 Logs folder : Log Format
 The simulated logs are formatted as follows:
