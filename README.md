@@ -4,7 +4,9 @@ I have picked a hospital network use case to generate a digital twin by simulate
 
 List of devices categories picked 
 Medical, IT and IOT devices. 
-each of these are put in seperate folders and they contain a very unqiue and detailed list of characters. 
+each of these are put in seperate folders and they contain a very unqiue and detailed list of characters that include 
+IP address|MAC|Port|Dev Name|Dev Type|Application List|os_name|os_type|os_version|Serial No. - IT devices 
+
 
 3D assets folder contains the images in sub folder for each of the device categories. The used 3D pictures are large in size henceforth saved all of them in .usdz format, I have also added a operation room scene.
 
